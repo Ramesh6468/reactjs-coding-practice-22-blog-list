@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.blogContainer {
+  display: flex;
+  flex-direction: column;
+}
+.blogItem {
+  display: flex;
+  flex-direction: column;
+}
+.tittleContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  color: #9aa5b1;
+}
+.line {
+  color: #12022f;
+}
